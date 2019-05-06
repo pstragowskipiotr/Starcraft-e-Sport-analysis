@@ -15,5 +15,5 @@ Nowadays, it is common for publishers to try to establish an e-Sport scene for t
 - Depending on the amount of prizes, how long does an e-Sport career usually last? What kind of financial incentives are needed to ensure that players keep engaging into the game professionally? What is the effect of teams, considering that Starcraft is a 1v1-game, on both the player performance and the length of their career? 
 
 As a preliminary data analysis, I prepared two plots: 
-- [https://github.com/pstragowskipiotr/Starcraft-e-Sport-analysis/blob/master/Popularity%20over%20time%20and%20in-outside%20Korea%20.ipynb ](A bar graph presenting the popularity of the game as an e-Sport in different regions with important changes labeled)
-- [https://github.com/pstragowskipiotr/Starcraft-e-Sport-analysis/blob/master/Career%20earnings%20over%20age.ipynb ](A scatter plot of player earnings throughout their career against their age and nationality)
+- [A bar graph presenting the popularity of the game as an e-Sport in different regions with important changes labeled](https://github.com/pstragowskipiotr/Starcraft-e-Sport-analysis/blob/master/Popularity%20over%20time%20and%20in-outside%20Korea%20.ipynb)
+- [A scatter plot of player earnings throughout their career against their age and nationality]([https://github.com/pstragowskipiotr/Starcraft-e-Sport-analysis/blob/master/Career%20earnings%20over%20age.ipynb)
